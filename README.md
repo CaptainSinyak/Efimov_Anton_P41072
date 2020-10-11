@@ -37,3 +37,5 @@
 
 [frmw-005](https://kodaktor.ru/jsmixer_0d0c7)
 
+[you](https://captainsinyak.github.io/)
+[repo](https://github.com/CaptainSinyak/CaptainSinyak.github.io)

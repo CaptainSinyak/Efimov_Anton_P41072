@@ -25,6 +25,15 @@
 
 [babl_002](https://kodaktor.ru/bind02032018_2b908)
 
-[evnt_002](https://kodaktor.ru/custom_c5f75)
+[evnt_002](https://kodaktor.ru/custom_4a647)
 
+[frmw-001](https://kodaktor.ru/frmw_a039d)
+
+[frmw-002](https://kodaktor.ru/frmw_60fb5)
+
+[frmw-003](https://kodaktor.ru/frmw_7fc87)
+
+[frmw-004](https://kodaktor.ru/frmw_57e8c)
+
+[frmw-005](https://kodaktor.ru/jsmixer_0d0c7)
 

@@ -21,4 +21,4 @@
 
 [func-010](https://kodaktor.ru/func_55cfa)
 
-[async-tasks] (https://codepen.io/captainsinyak/pen/ZEOGePy)
+[async-tasks](https://codepen.io/captainsinyak/pen/ZEOGePy)

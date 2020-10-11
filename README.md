@@ -19,7 +19,7 @@
 
 [func-009](https://kodaktor.ru/func_53082)
 
-[func-010](https://kodaktor.ru/func_55cfa)
+[func-010](https://kodaktor.ru/func_7eaa9)
 
 [async-tasks](https://codepen.io/captainsinyak/pen/ZEOGePy)
 

@@ -39,4 +39,4 @@
 
 [you](https://captainsinyak.github.io/)
 
-[repo](https://github.com/CaptainSinyak/CaptainSinyak.github.io)
+[you(repo)](https://github.com/CaptainSinyak/CaptainSinyak.github.io)
